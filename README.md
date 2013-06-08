@@ -173,6 +173,9 @@ A great little introduction and teaser into Angular.
 
 Diving into directives.
 
+## More AngularJS Collective Resources
+[More AngularJS resources] (https://github.com/exexzian/AngularJS-Learning)
+
 ## Snippets
 
 [Angular.js Snippets for Sublime Text 2](https://github.com/maxhoffmann/angular-snippets)
